@@ -19,17 +19,17 @@ I designed original questions, structured simulations, and validated theoretical
 | File | Description |
 |------|-------------|
 | `superposition.mo` | Modelica file implementing the Superposition Theorem. |
-| `superposition theorem documentation 2.docx` | Documentation explaining the setup, analysis, and results of the superposition model. |
+| `superposition theorem documentation 2.docx` | Challenging questions created by the student based on superposition theorem post the experimental analysis |
 | `MPTT.mo` | Modelica model used to demonstrate the Maximum Power Transfer Theorem. |
-| `Maximum_power_transfer_theorem_1.docx` | Report detailing the design, derivation, and simulation analysis for the MPTT model. |
+| `Maximum_power_transfer_theorem_1.docx` | Challenging questions created by the student based on maximum power transfer theorem post the experimental analysis. |
 | `LC_Impedance.mo` | Modelica simulation of an LC circuit to observe frequency-dependent impedance. |
 | `critical frequencies of LC impedance.docx` | Analytical breakdown of LC circuit behavior and critical frequency points. |
-| `LC_DRIVING_POINT_IMPEDANCE.pptx` | Presentation summarizing LC impedance characteristics and simulation outputs. |
+| `LC_DRIVING_POINT_IMPEDANCE.pptx` | Challenging questions created by the student based on LC impedance post the experimental analysis.. |
 | `SPT and MPTT.pptx` | Slide deck providing a visual comparison of Superposition and Maximum Power Transfer Theorems with plots. |
 
 ## Key Learning Outcomes
 
-- Gained hands-on experience in building physical circuit models using Dymola and Modelica.
+- Gained hands-on experience in building physical circuit models using Dymola Modelica.
 - Translated theoretical principles into simulation frameworks for validation and exploration.
 - Strengthened understanding of multi-domain modeling and electrical behavior in frequency-variant systems.
 - Practiced technical reporting and presentation of simulation-based results.
