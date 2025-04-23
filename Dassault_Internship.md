@@ -1,9 +1,8 @@
 
 # Dassault Systèmes Student Internship – Electrical Theorems Simulation  
 **Tools Used:** Dymola, Modelica  
-**Duration:** [Insert Dates]  
+**Duration:** June 2020 to Nov 2020  
 **Internship Organization:** Dassault Systèmes  
-**Intern:** [Your Name]
 
 ## Overview
 
