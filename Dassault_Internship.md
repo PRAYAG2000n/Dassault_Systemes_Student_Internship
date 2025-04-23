@@ -38,7 +38,7 @@ I designed original questions, structured simulations, and validated theoretical
 
 1. Open Dymola and load the `.mo` files provided in the repository.
 2. Run the simulation and view results via the built-in plot windows.
-3. Refer to the documentation files (`.docx` and `.pptx`) for step-by-step explanations of each setup and observed results.
+3. Refer to the documentation files (`.pptx`) for step-by-step explanations of each setup and observed results.
 
 ## License
 
